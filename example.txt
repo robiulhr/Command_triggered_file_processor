@@ -1,0 +1,1 @@
+fs.readFile('example.txt', (err, data) => {  if (err) {    console.error(err)    process.exit(1)  }  text = data.toString()  const arr = text.split('\n')  console.log(arr)  arr.forEach(ele => {    rl.write(ele, { ctrl: true })  })})
