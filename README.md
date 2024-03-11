@@ -10,7 +10,7 @@ This project works for two scenarios
 
 1. It watches a file and does the work on a given command when the file gets saved. ![command executor file demo](./gif/command%20executor%20file%20watcher.gif)
 
-2. It works for the terminal. when the command is given in the terminal it should do the the task on given command (It should work just like the nano editor of the terminal). ![run command on terminal and do stuff](./gif/Crud%20operation%20-%20create%20file%20demo.gif)
+2. It works for the terminal. when the command is given in the terminal it does the the task for the given command (It works just like a nano editor of the terminal). ![run command on terminal and do stuff](./gif/Crud%20operation%20-%20create%20file%20demo.gif)
 
 ## Capabilities
 
